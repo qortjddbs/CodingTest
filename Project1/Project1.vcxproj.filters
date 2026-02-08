@@ -16,10 +16,19 @@
     <Filter Include="소스 파일\2. 조건문">
       <UniqueIdentifier>{13ca3f17-5c8f-4827-a3f2-6c61d02c0983}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\3. 반복문">
+      <UniqueIdentifier>{c2400dca-684c-4a10-9087-1ba799174d13}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="OvenWatch.cpp">
       <Filter>소스 파일\2. 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiplicationTable.cpp">
+      <Filter>소스 파일\3. 반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="A+B-3.cpp">
+      <Filter>소스 파일\3. 반복문</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
