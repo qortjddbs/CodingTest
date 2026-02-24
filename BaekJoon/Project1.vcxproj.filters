@@ -30,5 +30,8 @@
     <ClCompile Include="A+B-3.cpp">
       <Filter>소스 파일\3. 반복문</Filter>
     </ClCompile>
+    <ClCompile Include="하노이 탑.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
